@@ -11,19 +11,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/imageTest/outputImage.php">
+        <entry file="file://$PROJECT_DIR$/phpDesineModel.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="275">
-              <caret line="11" column="28" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/imageTest/ApacheUrl请求重写规则.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="17" column="14" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
+            <state relative-caret-position="400">
+              <caret line="16" column="39" selection-start-line="16" selection-start-column="39" selection-end-line="16" selection-end-column="39" />
             </state>
           </provider>
         </entry>
@@ -67,19 +58,22 @@
         <option value="$PROJECT_DIR$/preg/preg.php" />
         <option value="$PROJECT_DIR$/imageTest/ApacheUrl请求重写规则.txt" />
         <option value="$PROJECT_DIR$/imageTest/outputImage.php" />
+        <option value="$PROJECT_DIR$/phpDesineModel.php" />
       </list>
     </option>
   </component>
   <component name="PhpServers">
     <servers />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-60" />
     <option name="y" value="125" />
     <option name="width" value="1750" />
     <option name="height" value="980" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -92,11 +86,6 @@
             <path>
               <item name="myproduct" type="b2602c69:ProjectViewProjectNode" />
               <item name="myproduct" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="myproduct" type="b2602c69:ProjectViewProjectNode" />
-              <item name="myproduct" type="462c0819:PsiDirectoryNode" />
-              <item name="imageTest" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="myproduct" type="b2602c69:ProjectViewProjectNode" />
@@ -152,16 +141,15 @@
       <workItem from="1561788938230" duration="2655000" />
       <workItem from="1561988340945" duration="4625000" />
       <workItem from="1562073844291" duration="6044000" />
-      <workItem from="1562167925146" duration="1454000" />
+      <workItem from="1562167925146" duration="4360000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="52444000" />
+    <option name="totallyTimeSpent" value="55350000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22319035" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -294,6 +282,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/imageTest/outputImage.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="4" lean-forward="true" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/imageTest/ApacheUrl请求重写规则.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="425">
@@ -301,10 +296,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/imageTest/outputImage.php">
+    <entry file="file://$PROJECT_DIR$/phpDesineModel.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="11" column="28" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
+        <state relative-caret-position="400">
+          <caret line="16" column="39" selection-start-line="16" selection-start-column="39" selection-end-line="16" selection-end-column="39" />
         </state>
       </provider>
     </entry>
