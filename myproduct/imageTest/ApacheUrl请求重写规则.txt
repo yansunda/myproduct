@@ -1,0 +1,18 @@
+加上：
+RewriteEngine On
+RewriteRule ^/myproduct/imageTest/image/(.*) /myproduct/imageTest/outputImage.php?path=$1   [L]
+
+在config/extra/httpd-vhosts.conf
+中的localhost的配置项中增加
+<VirtualHost *:80>
+    ServerName localhost
+    DocumentRoot "F:\PHPSoftware\wamp\www"
+    DirectoryIndex index.php
+	RewriteEngine On
+	RewriteRule ^/myproduct/imageTest/image/(.*) /myproduct/imageTest/outputImage.php?path=$1   [L]
+    <Directory "F:\PHPSoftware\wamp\www">
+        Options Indexes FollowSymLinks
+        AllowOverride all
+        Require all granted
+    </Directory>
+</VirtualHost>
